@@ -5,7 +5,7 @@ const movies = [
         year: 2006,
         rating: 8.5,
         actors: [1, 2, 3],
-        directors: [1]
+        directors: [1] 
     },
     {
         id: 2,
